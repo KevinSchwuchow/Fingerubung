@@ -10,7 +10,7 @@ Das Betriebsystem sollte nicht windows sein, denn in diesem Fall gibt es den tex
 
 
 # Infos
-Die Daten können im Json Format gespeichert werden und werden dies aus, sie liegen Unter den folgenden links 
+Die Daten können im Json Format gespeichert werden und werden dies aus, sie liegen Unter den folgenden links  
 [Highlights_of_the_Prado_Museum.xml.json](output/Highlights_of_the_Prado_Museum.xml.json)  
 [Bicycles.xml.json](output/Bicycles.xml.json)
 

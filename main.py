@@ -1,4 +1,3 @@
-from os import link
 import os
 import xml.etree.ElementTree as ET
 from collections import defaultdict
