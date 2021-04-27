@@ -1,3 +1,7 @@
+---
+disable-header-and-footer: True
+---
+
 # Abgabe
 Das Programm `main.py` schreibt die Ergebnisse im Markdown Format in den Output Ordner.
 
