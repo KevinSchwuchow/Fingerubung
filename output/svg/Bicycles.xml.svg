@@ -83,9 +83,9 @@
 <polygon fill="red" stroke="red" points="491.61,-453.56 493.24,-443.09 485.44,-450.26 491.61,-453.56"/>
 <text text-anchor="middle" x="432.97" y="-538.98" font-family="Times,serif" font-size="14.00">EC</text>
 </g>
-<!-- pl52 -->
+<!-- pl19 -->
 <g id="node7" class="node">
-<title>pl52</title>
+<title>pl19</title>
 <ellipse fill="none" stroke="red" cx="690.38" cy="-278" rx="28" ry="18"/>
 <text text-anchor="middle" x="690.38" y="-274.3" font-family="Times,serif" font-size="14.00">city</text>
 </g>
@@ -137,9 +137,9 @@
 <ellipse fill="none" stroke="red" cx="461.38" cy="-148" rx="58" ry="18"/>
 <text text-anchor="middle" x="461.38" y="-144.3" font-family="Times,serif" font-size="14.00">Venezuela</text>
 </g>
-<!-- pl43 -->
+<!-- pl53 -->
 <g id="node16" class="node">
-<title>pl43</title>
+<title>pl53</title>
 <ellipse fill="none" stroke="red" cx="667.38" cy="-44" rx="30" ry="18"/>
 <text text-anchor="middle" x="667.38" y="-40.3" font-family="Times,serif" font-size="14.00">lake</text>
 </g>
@@ -198,9 +198,9 @@
 <ellipse fill="none" stroke="red" cx="825.43" cy="-278" rx="32" ry="18"/>
 <text text-anchor="middle" x="825.43" y="-274.3" font-family="Times,serif" font-size="14.00">here</text>
 </g>
-<!-- pl50&#45;&gt;pl52 -->
+<!-- pl50&#45;&gt;pl19 -->
 <g id="edge8" class="edge">
-<title>pl50&#45;&gt;pl52</title>
+<title>pl50&#45;&gt;pl19</title>
 <path fill="none" stroke="red" d="M793.42,-278C774.03,-278 749.17,-278 728.73,-278"/>
 <polygon fill="red" stroke="red" points="728.49,-274.5 718.49,-278 728.49,-281.5 728.49,-274.5"/>
 <text text-anchor="middle" x="752.07" y="-281.8" font-family="Times,serif" font-size="14.00">IN</text>
@@ -229,9 +229,9 @@
 <ellipse fill="none" stroke="red" cx="126.38" cy="-252" rx="35.19" ry="18"/>
 <text text-anchor="middle" x="126.38" y="-248.3" font-family="Times,serif" font-size="14.00">place</text>
 </g>
-<!-- pl14 -->
+<!-- pl0 -->
 <g id="node29" class="node">
-<title>pl14</title>
+<title>pl0</title>
 <ellipse fill="none" stroke="red" cx="716.38" cy="-616" rx="104.78" ry="18"/>
 <text text-anchor="middle" x="716.38" y="-612.3" font-family="Times,serif" font-size="14.00">Logos middle school</text>
 </g>
@@ -260,9 +260,9 @@
 <polygon fill="blue" stroke="blue" points="369.74,-502.5 379.74,-499 369.74,-495.5 369.74,-502.5"/>
 <text text-anchor="middle" x="351.93" y="-487.8" font-family="Times,serif" font-size="14.00">ABOVE</text>
 </g>
-<!-- se37 -->
+<!-- se55 -->
 <g id="node33" class="node">
-<title>se37</title>
+<title>se55</title>
 <ellipse fill="none" stroke="green" cx="755.38" cy="-44" rx="27" ry="18"/>
 <text text-anchor="middle" x="755.38" y="-40.3" font-family="Times,serif" font-size="14.00">I</text>
 </g>
@@ -406,9 +406,9 @@
 <ellipse fill="none" stroke="green" cx="411.38" cy="-759" rx="34.5" ry="18"/>
 <text text-anchor="middle" x="411.38" y="-755.3" font-family="Times,serif" font-size="14.00">army</text>
 </g>
-<!-- se6 -->
+<!-- se5 -->
 <g id="node55" class="node">
-<title>se6</title>
+<title>se5</title>
 <ellipse fill="none" stroke="green" cx="317.38" cy="-759" rx="31.4" ry="18"/>
 <text text-anchor="middle" x="317.38" y="-755.3" font-family="Times,serif" font-size="14.00">they</text>
 </g>
@@ -443,9 +443,9 @@
 <ellipse fill="none" stroke="blue" cx="555.34" cy="-278" rx="35.19" ry="18"/>
 <text text-anchor="middle" x="555.34" y="-274.3" font-family="Times,serif" font-size="14.00">lanes</text>
 </g>
-<!-- p8&#45;&gt;pl52 -->
+<!-- p8&#45;&gt;pl19 -->
 <g id="edge13" class="edge">
-<title>p8&#45;&gt;pl52</title>
+<title>p8&#45;&gt;pl19</title>
 <path fill="none" stroke="red" d="M590.47,-278C609.41,-278 632.82,-278 652.21,-278"/>
 <polygon fill="red" stroke="red" points="652.23,-281.5 662.23,-278 652.23,-274.5 652.23,-281.5"/>
 <text text-anchor="middle" x="612.34" y="-281.8" font-family="Times,serif" font-size="14.00">IN</text>

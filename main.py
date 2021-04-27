@@ -1,4 +1,5 @@
 from os import link
+import os
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 
@@ -204,7 +205,8 @@ def histrogram(x: Any):
 def main(filename):
     stdout = sys.stdout
     outputfile = "./output/"+filename.split('/')[-1]+".md"
-    sys.stdout = open(outputfile, 'w')
+    if(os.name == "posix"): # windows probally does not support redirection
+        sys.stdout = open(outputfile, 'w')
     
     print(f"# {filename.split('/')[-1]}")
 
@@ -303,8 +305,9 @@ def main(filename):
 
     res.to_file("output/"+json_filename)
 
-    sys.stdout.close()
-    sys.stdout = stdout
+    if(os.name == "posix"):
+        sys.stdout.close()
+        sys.stdout = stdout
     print("Wrote Result to:",outputfile)
     # print(A.to_string())
 
